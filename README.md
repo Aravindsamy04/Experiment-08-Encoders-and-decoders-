@@ -25,7 +25,6 @@ Hence, the encoder can be realised with OR gates as follows:
 
 
 ![image](https://user-images.githubusercontent.com/36288975/171543740-68403b82-aa93-4c98-9343-f32b14885a2e.png)
-## Figure -02 3 to 8 Encoder implenentation 
 
 
 ### Procedure:
