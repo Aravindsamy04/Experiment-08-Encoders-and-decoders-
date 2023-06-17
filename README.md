@@ -1,4 +1,4 @@
-#   OCTAL TO BINARY
+#                  OCTAL TO BINARY ENCODER USING VERILOG
 ### AIM: To Design and simulate octal to binary encoder using verilog.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
